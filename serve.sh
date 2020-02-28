@@ -1,0 +1,1 @@
+go run cmd/test-service-server/main.go --port=8082
